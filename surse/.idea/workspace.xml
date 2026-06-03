@@ -34,9 +34,9 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3D1fJ99tj5w11jgqpn0rTDhOj9M" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +54,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Lab1",
+    "git-widget-placeholder": "Lab4",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/minec/Desktop/FMI SD/surse/L3",
     "node.js.detected.package.eslint": "true",
